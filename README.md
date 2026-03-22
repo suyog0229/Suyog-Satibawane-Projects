@@ -1,4 +1,4 @@
-# Suyog-Satibawane-Projects
+# Suyog-Satibawane-Portfolio
 
 1. IPL Score Predictor — Live ML App  ·  Python · Random Forest · Flask · Docker · REST API	Mar 2025
 ▸	R² = 0.91 on 50,000+ IPL records — feature-engineered across venue, teams, wickets, overs, and run rate; tuned with GridSearchCV + 5-fold cross-validation
